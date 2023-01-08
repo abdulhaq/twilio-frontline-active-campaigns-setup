@@ -1,7 +1,7 @@
 
 # Twilio Frontline with Active Campaign Setup
 
-Working for on of my client, I faild to find any example/tutorial to integrate Twilio Frontline with Active Campaigns. With project allows you to Frontline mobile app with your AC contacts.
+Working for one of my client, I faild to find any example/tutorial on how to integrate Twilio Frontline with Active Campaigns. With this project you can integrate Frontline mobile app with your Active Campaign contacts.
 
 
 ## Features
